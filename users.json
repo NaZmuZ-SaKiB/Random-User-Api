@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Nazmuz Sakib",
+    "gender": "male",
+    "contact": "01987654321",
+    "address": "Gazipur",
+    "photoUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  },
+  {
+    "id": 1,
+    "name": "Tasmia",
+    "gender": "female",
+    "contact": "01954765321",
+    "address": "Tangail",
+    "photoUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  },
+  {
+    "id": 2,
+    "name": "Ratul",
+    "gender": "male",
+    "contact": "08364965321",
+    "address": "Bogura",
+    "photoUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  },
+  {
+    "id": 3,
+    "name": "Tania",
+    "gender": "female",
+    "contact": "09374859483",
+    "address": "Rajshahi",
+    "photoUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  },
+  {
+    "id": 4,
+    "name": "Ismail",
+    "gender": "male",
+    "contact": "0948334862",
+    "address": "Chadpur",
+    "photoUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  },
+  {
+    "id": 5,
+    "name": "Titli",
+    "gender": "female",
+    "contact": "0343985762",
+    "address": "Gopalgonj",
+    "photoUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  },
+  {
+    "name": "Totol",
+    "gender": "male",
+    "contact": "01784593668",
+    "address": "Mirzapur",
+    "photoUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+    "id": 6
+  }
+]

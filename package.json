@@ -1,0 +1,15 @@
+{
+  "name": "user-api-assignment",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Sakib",
+  "license": "MIT",
+  "scripts": {
+    "start-dev": "nodemon server"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
